@@ -1,0 +1,4 @@
+repository "First Game@Hikitos06iva@cloud"
+  path "/"
+    smartbranch "/main/Sergey"  
+     
